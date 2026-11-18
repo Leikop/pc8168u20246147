@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
+namespace pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
 
 public static class ModelBuilderExtensions
 {

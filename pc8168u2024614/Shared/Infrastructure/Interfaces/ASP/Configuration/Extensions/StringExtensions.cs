@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
+namespace pc8168u2024614.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
 
 public static partial class StringExtensions
 {

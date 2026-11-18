@@ -1,8 +1,8 @@
-using PC28168.U202416147.Openpay.Platform.Shared.Domain.Model;
+using pc8168u2024614.Shared.Domain.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 
-namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Interceptors;
+namespace pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Interceptors;
 
 public sealed class AuditableEntityInterceptor : SaveChangesInterceptor
 {

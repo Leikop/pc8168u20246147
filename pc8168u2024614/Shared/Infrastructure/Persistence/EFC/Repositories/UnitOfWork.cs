@@ -1,7 +1,7 @@
-using PC28168.U202416147.Openpay.Platform.Shared.Domain.Repositories;
-using PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Configuration;
+using pc8168u2024614.Shared.Domain.Repositories;
+using pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Configuration;
 
-namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Repositories;
+namespace pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Repositories;
 
 public class UnitOfWork(AppDbContext context) : IUnitOfWork
 {

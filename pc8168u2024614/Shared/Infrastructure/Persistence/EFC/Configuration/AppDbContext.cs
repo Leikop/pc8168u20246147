@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using PC28168.U202416147.Openpay.Platform.Settlements.Domain.Model.Aggregates;
-using PC28168.U202416147.Openpay.Platform.Settlements.Domain.Model.ValueObjects;
-using PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
-using PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Interceptors;
+using pc8168u2024614.Settlements.Domain.Model.Aggregates;
+using pc8168u2024614.Settlements.Domain.Model.ValueObjects;
+using pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
+using pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Interceptors;
 
-namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Configuration;
+namespace pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Configuration;
 
 public class AppDbContext(DbContextOptions options) : DbContext(options)
 {

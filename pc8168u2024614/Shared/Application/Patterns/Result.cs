@@ -1,4 +1,4 @@
-namespace PC28168.U202416147.Openpay.Platform.Shared.Application.Patterns;
+namespace pc8168u20246147.Shared.Application.Patterns;
 
 public abstract record Result<TValue, TError>
 {
