@@ -1,7 +1,7 @@
-using pc8168u2024614.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
+using PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Interfaces.ASP.Configuration.Extensions;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 
-namespace pc8168u2024614.Shared.Infrastructure.Interfaces.ASP.Configuration;
+namespace PC28168.U202416147.Openpay.Platform.Shared.Infrastructure.Interfaces.ASP.Configuration;
 
 public class KebabCaseRouteNamingConvention : IControllerModelConvention
 {

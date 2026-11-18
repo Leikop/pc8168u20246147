@@ -1,8 +1,8 @@
-using pc8168u2024614.Shared.Domain.Repositories;
-using pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Configuration;
+using pc8168u2024614.Openpay.Platform.Shared.Domain.Repositories;
+using pc8168u2024614.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Configuration;
 using Microsoft.EntityFrameworkCore;
 
-namespace pc8168u2024614.Shared.Infrastructure.Persistence.EFC.Repositories;
+namespace pc8168u2024614.Openpay.Platform.Shared.Infrastructure.Persistence.EFC.Repositories;
 
 public class BaseRepository<TEntity>(AppDbContext context) : IBaseRepository<TEntity> where TEntity : class
 {

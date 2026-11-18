@@ -1,0 +1,15 @@
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.csproj.AssemblyReference.cache
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/PC28168.U202416147.Openpay.Platform.Resources.SharedResource.resources
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/PC28168.U202416147.Openpay.Platform.Resources.SharedResource.en-us.resources
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/PC28168.U202416147.Openpay.Platform.Resources.SharedResource.en.resources
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/PC28168.U202416147.Openpay.Platform.Resources.SharedResource.es-pe.resources
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/PC28168.U202416147.Openpay.Platform.Resources.SharedResource.es.resources
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.csproj.GenerateResource.cache
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.AssemblyInfoInputs.cache
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.AssemblyInfo.cs
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.csproj.CoreCompileInputs.cache
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.MvcApplicationPartsAssemblyInfo.cs
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.MvcApplicationPartsAssemblyInfo.cache
+/Users/alumnos/Documents/202416147/pc8168u2024614/pc8168u2024614/obj/Debug/net10.0/pc8168u2024614.sourcelink.json

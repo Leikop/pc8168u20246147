@@ -1,4 +1,4 @@
-namespace pc8168u2024614.Shared.Domain.Model;
+namespace PC28168.U202416147.Openpay.Platform.Shared.Domain.Model;
 
 public interface IAuditableEntity
 {
